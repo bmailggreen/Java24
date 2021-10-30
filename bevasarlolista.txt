@@ -3,3 +3,5 @@
 3. kenyér
 4. tej
 5. ásványvíz
+6. sör
+7. zsömle
